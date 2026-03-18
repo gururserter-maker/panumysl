@@ -1,0 +1,20 @@
+site_name: Pan Umysł
+site_description: Przestrzeń, w której rzucamy światło na ludzką psychikę.
+
+theme:
+  name: material
+  language: pl
+  palette:
+    # Scheme'i 'slate' (karanlık) yerine 'default' (aydınlık/beyaz) yapıyoruz.
+    # Kanalın temiz beyaz banner arka planı ve parlak thumbnails'ı ile uyumlu.
+    scheme: default
+    # Primary rengi 'red' (kırmızı) yapıyoruz.
+    # Karakterin gözlüğü, papyonu vethumbnails'lardaki kırmızı baloncuk yazılar ile uyumlu.
+    primary: red
+    # Accent rengini 'yellow' (sarı) yapıyoruz.
+    # Bannerdaki yazı rengi, karakterin saçı vethumbnails arka planları ile uyumlu.
+    accent: yellow
+
+  font:
+    text: Roboto
+    code: Roboto Mono
