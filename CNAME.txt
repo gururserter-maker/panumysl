@@ -1,1 +1,2 @@
 panumysl.pl
+site_url: https://panumysl.pl
